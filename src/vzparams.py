@@ -1,7 +1,9 @@
+#!/usr/bin/env python
 '''
-Created on 22.12.2010
+This module sets the parameter of an openvz container.
 
-@author: ego2dot0
+Copyright: ego2dot0
+License: GPLv3
 '''
 
 if __name__ == '__main__':
